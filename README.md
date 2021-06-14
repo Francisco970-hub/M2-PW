@@ -1,10 +1,11 @@
 # My work assignment Title
 
-Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ALPHA : [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
+Repositorio que contem o projeto desenvolvido no ambito da disciplina de Programação Web.
+Grupo 3: Francisco Fernandes, Miguel Azevedo, Pedro Azevedo.
 
-## Short theme description
+## Descrição
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
+Aplicação web que pretende retratar o sistema de gestão de uma loja de informática.
 
 ## Repository organization
 
@@ -19,23 +20,21 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
-* XML
+* React js;
 * HTML5 + CSS3
 * Javascript
-* PHP
-* nodeJS
-* _Any other?_
+* LoopBack
+* NodeJS
+* PhpMyAdmin
+* NodeJs
+* Xampp
 
 ### Frameworks and Libraries
 
-_Did you use any aditional libraries? Describe them here._
-* Docker
-* Multipass
+* React Admin
+* React js
 * NodeJS
-* JQuery
-* Laravel
-* Bootstrap
+* LoopBack
 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
@@ -50,5 +49,6 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 * Chapter 4: [Presentation](doc/c4.md)
 
 ## Team
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+* Francisco Fernandes
+* Miguel Azevedo
+* Pedro Azevedo
