@@ -7,10 +7,10 @@ Grupo 3: Francisco Fernandes, Miguel Azevedo, Pedro Azevedo.
 
 Aplicação web que  retrata o sistema de gestão de uma loja de informática.
 
-## Repositório
+## Documentação
 
-[Repositório](https://github.com/Francisco970-hub/M2-PW).
-[Relatório](https://github.com/Francisco970-hub/M2-PW/tree/main/doc).
+## [Repositório](https://github.com/Francisco970-hub/M2-PW)
+## [Relatório](https://github.com/Francisco970-hub/M2-PW/tree/main/doc)
 
 ## Galeria
 
