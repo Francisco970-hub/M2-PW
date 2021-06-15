@@ -1,4 +1,4 @@
-# My work assignment Title
+# Título
 
 Repositório que contém o projeto desenvolvido no âmbito da disciplina de Programação Web.
 Grupo 3: Francisco Fernandes, Miguel Azevedo, Pedro Azevedo.
@@ -7,18 +7,18 @@ Grupo 3: Francisco Fernandes, Miguel Azevedo, Pedro Azevedo.
 
 Aplicação web que  retrata o sistema de gestão de uma loja de informática.
 
-## Repository organization
+## Repositório
 
 _Please help reader navigate around describing how the repository is organized by providing links_
 * **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
 * Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
 
-## Gallery
+## Galeria
 
 _Please provide a galery of the final result, with small images_
-A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
+[Presentation](doc/c4.md)
 
-## Technologies
+## Tecnologias utilizadas
 
 * React js;
 * HTML5 + CSS3
@@ -29,7 +29,7 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * NodeJs
 * Xampp
 
-### Frameworks and Libraries
+### Frameworks e Livrarias
 
 * React Admin
 * React js
@@ -39,7 +39,7 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
 
-### Project presentation
+### Apresentação do Projeto
 * Chapter 1: [Project presentation](doc/c1.md)
 ### User Interface 
 * Chapter 2: [User Interface Prototype and Sitemap](doc/c2.md)
@@ -48,7 +48,7 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 ### Presentation
 * Chapter 4: [Presentation](doc/c4.md)
 
-## Team
+## Equipa
 * Francisco Fernandes
 * Miguel Azevedo
 * Pedro Azevedo
