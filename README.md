@@ -35,8 +35,6 @@ _Please help reader navigate around describing how the repository is organized b
 * NodeJS
 * LoopBack
 
-## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Apresentação do Projeto
 * Chapter 1: [Project presentation](doc/c1.md)
