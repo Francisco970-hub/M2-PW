@@ -15,7 +15,6 @@ _Please help reader navigate around describing how the repository is organized b
 
 ## Galeria
 
-_Please provide a galery of the final result, with small images_
 [Presentation](doc/c4.md)
 
 ## Tecnologias utilizadas
@@ -41,11 +40,11 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Apresentação do Projeto
 * Chapter 1: [Project presentation](doc/c1.md)
-### User Interface 
+### Interface
 * Chapter 2: [User Interface Prototype and Sitemap](doc/c2.md)
-### Product
+### Produto
 * Chapter 3: [Product](doc/c3.md)
-### Presentation
+### Apresentação
 * Chapter 4: [Presentation](doc/c4.md)
 
 ## Equipa
