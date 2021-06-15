@@ -1,11 +1,11 @@
 # My work assignment Title
 
-Repositorio que contem o projeto desenvolvido no ambito da disciplina de Programação Web.
+RepositÓrio que contém o projeto desenvolvido no âmbito da disciplina de Programação Web.
 Grupo 3: Francisco Fernandes, Miguel Azevedo, Pedro Azevedo.
 
 ## Descrição
 
-Aplicação web que pretende retratar o sistema de gestão de uma loja de informática.
+Aplicação web que  retrata o sistema de gestão de uma loja de informática.
 
 ## Repository organization
 
