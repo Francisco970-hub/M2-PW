@@ -9,9 +9,8 @@ Aplicação web que  retrata o sistema de gestão de uma loja de informática.
 
 ## Repositório
 
-_Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
-* Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
+[Repositório](https://github.com/Francisco970-hub/M2-PW).
+[Relatório](https://github.com/Francisco970-hub/M2-PW/tree/main/doc).
 
 ## Galeria
 
