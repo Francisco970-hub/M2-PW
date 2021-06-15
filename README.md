@@ -1,6 +1,7 @@
 # Título
 
 Repositório que contém o projeto desenvolvido no âmbito da disciplina de Programação Web.
+
 Grupo 3: Francisco Fernandes, Miguel Azevedo, Pedro Azevedo.
 
 ## Descrição
